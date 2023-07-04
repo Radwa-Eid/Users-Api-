@@ -1,0 +1,15 @@
+.nav{
+    background-color: rgb(219, 246, 246);
+}
+.navbarContent{
+    width:100%;
+}
+.navbar-brand{
+    color: #000;
+    font-weight: 600;
+    font-size: 26px;
+}
+.navBarLinks{
+    font-size: 18px;
+    color: #000;
+}

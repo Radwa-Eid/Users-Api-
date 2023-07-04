@@ -1,0 +1,31 @@
+.cart:hover{
+    transition: all 0.4s;
+    transform: translateY(-10px);
+    box-shadow:-4px 3px 0 #e5e5e5;
+}
+.cardImg{
+    position: relative;
+    background-color: rgb(241, 249, 249);
+}
+.cardImg img{
+    width: 100%;
+}
+.cardText{
+    text-align: left;
+}
+.card-title {
+    color: #000;
+    font-size: 24px;
+}
+.card-text {
+    color: #777;
+}
+.btn-outline-primary {
+    color: #000;
+    border:1px solid rgb(116 202 202);
+}
+.btn-outline-primary:hover {
+    background-color: rgb(219, 246, 246);
+    color: #000;
+    border:1px solid rgb(219, 246, 246);
+}
